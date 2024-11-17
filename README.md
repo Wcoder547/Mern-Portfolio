@@ -1,7 +1,3 @@
-Here's a sample README file content for your MERN Portfolio project:
-
----
-
 # MERN Portfolio
 
 A full-featured portfolio website built using the MERN (MongoDB, Express.js, React.js, and Node.js) stack. This project showcases my personal portfolio, including information about me, my projects, my skills, and a contact form for potential clients or employers.
